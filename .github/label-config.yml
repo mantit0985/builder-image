@@ -1,0 +1,14 @@
+# Version 1.1
+# Map branch prefixes to labels
+branch_mappings:
+  feat/: enhancement
+  fix/: bug
+  chore/: chore
+  docs/: documentation
+  refactor/: refactor
+  test/: test
+
+# Map file path regex to labels
+file_mappings:
+  documentation: "^\\.md$"
+# Config Version 1.1 (conventional subset)
